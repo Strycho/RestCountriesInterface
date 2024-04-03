@@ -1,0 +1,6 @@
+@CountryInterfaceSPA.Server_HostAddress = http://localhost:5191
+
+GET {{CountryInterfaceSPA.Server_HostAddress}}/country/
+Accept: application/json
+
+###
